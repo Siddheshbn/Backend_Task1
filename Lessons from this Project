@@ -1,0 +1,1 @@
+Always refresh the Tab where your website is open after doing changes in the code, especially wherever you're fetching the data from the API servers. Otherwise it will keep requesting the data irrespectively of the changes done in your code.
